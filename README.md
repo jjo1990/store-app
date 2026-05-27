@@ -29,3 +29,6 @@ pnpm install
 ```bash
 pnpm dev
 ```
+## dashboard
+paginas de presentacion de food-store
+https://stitch.withgoogle.com/projects/2422618797047653183
